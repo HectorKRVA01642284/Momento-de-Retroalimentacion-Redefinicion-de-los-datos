@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Dataset REHAB original
+Rehab_assessment/
+Rehab_exercise/
+
+# Archivos NumPy originales
+*.npy
+
+# Archivos comprimidos
+*.rar
+*.zip
